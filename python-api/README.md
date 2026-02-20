@@ -15,4 +15,4 @@
 
 ![PHP information page.](./screenshots/sql-php-info.png)
 ![PHP SQL configuration page.](./screenshots/sql-config-php.png)
-![Git config list & directory listing.](./screenshots/sql-directory-config.php)
+![Git config list & directory listing.](./screenshots/sql-directory-config.png)
